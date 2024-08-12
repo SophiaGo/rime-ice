@@ -27,28 +27,10 @@
 呣	m
 呒	m
 
-有	u	3
-又	u	2
-由	u	1
-
-一	i	4
-以	i	3
-已	i	2
-亦	i	1
-
-一个	ig
-有个	ug
-是一个	sig
-有一个	uig
-有一个	uyig
-有一个	uyige
-有没有	umu
-有没有	umeiu
 悠悠	uu
-又又又	uuu
-又双叒叕	uuuu
 钰涵	yuhan
 钰涵	yh
+程钰涵 cyh
 程路文	clw
 沈婕	sj
 
@@ -63,6 +45,4 @@ main	main
 Amazon	amazon
 NASA	nasa
 gone	gone
-Go程	gocheng
 code	code
-SOHO	soho
